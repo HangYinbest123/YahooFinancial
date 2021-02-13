@@ -1,3 +1,2 @@
-# YahooFinancial
-
-Implemented java client code for Yahoo Financial Service based on Spring framework.
+# Client side code that makes Yahoo Financial Service easier to use.
+# Make API calls using RestTemplate provided by Spring
